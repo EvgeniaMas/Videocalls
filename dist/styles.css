@@ -59,8 +59,8 @@ a.navbar-brand {
     display: flex;
     flex-direction: row;
     flex-wrap: no-wrap;
-    justify-content: right;
-    text-align: right;
+    justify-content: left;
+    text-align: left;
 
   }
 }
